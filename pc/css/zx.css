@@ -1,0 +1,77 @@
+body,p,h1,h2,h3,h4,h5,h6,li,span,i,ul,img,a,strong,input{margin:0;padding:0; font-family: "microsoft yahei";}
+body{ font-size:14px;}
+li{list-style-type:none; float:left;}
+a{text-decoration:none;outline: none; color:inherit;}
+th,td{ padding:0;}
+table{ border-collapse:collapse;}
+img{border:none;}
+i{font-style:normal}
+h1,h2,h3,h4,h5,h6{font-weight:normal;}
+input,select,textarea{outline:none;text-indent:6px;}
+textarea{resize:none;}
+div{margin:0 auto;}
+.fl{float: left;}
+.fr{float: right;}
+.wid{width:1100px; margin:0 auto; position: relative;}
+
+
+
+ul li{
+	height: 500px;
+	width: 100%;
+}
+ul .zx1{
+	height: 288px;
+}
+
+.logo1{
+	position: absolute;
+	width: 111px;
+	height: 32px;
+	display: block;
+	top: 26px;
+	left: 50%;
+	margin-left: 340px;
+/*	background: #ccc;
+*/}
+.logo2{
+	position: absolute;
+	width: 328px;
+	height: 32px;
+	display: block;
+	top: 26px;
+	left: 50%;
+	margin-left: -450px;
+/*	background: #666;
+*/}
+.logo3{
+	position: absolute;
+	height: 487px;
+	display: block;
+	top: 82px;
+	left: 0;
+	right: 0;
+/*	background: #333;
+*/}
+
+.logo4{
+	position: absolute;
+	width: 208px;
+	height: 61px;
+	display: block;
+	top: 1150px;
+	left: 50%;
+	margin-left: -105px;
+/*	background: #999;
+*/}
+
+
+
+
+
+
+
+
+
+
+
